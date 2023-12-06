@@ -1,5 +1,8 @@
 body{
     background: #212121;
+    color: white;
+    font-family:;
+   
 }
 
 .banner{
@@ -13,31 +16,29 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    color:rgb(255, 255, 255);
+    
 }
 h1{
     text-align :center;
-      
+    font-size: 70px;
 }
 .down {
     background-color: black;
     background-size: cover;
     padding: 50px;
     margin: 0px;
-}
-
-.footer {
     padding-left: 450px;
 }
-
-
-  .image1 {
-    position: relative;
-    top: 0;
-    left: 0;
-  }
-  .image2 {
-    position: absolute;
-    top: 120px;
-    left: 0px;
-  }
+.paragraphe{
+  font-weight: 10px;
+padding-left: 100px;
+  font-size: 30px;
+}
+.ganon{
+  
+    padding-left: 300px;
+}
+a{
+    color: white;
+    font-size: 30px;
+}
