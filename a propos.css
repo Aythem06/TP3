@@ -1,5 +1,6 @@
 body{
     background: #212121;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .banner{
@@ -41,3 +42,21 @@ h1{
     top: 120px;
     left: 0px;
   }
+
+
+.image3 {
+  position: absolute;
+  top: 1300px;
+  left: 500px;
+}
+
+  a{
+    color:white;
+    font-size: 30px;
+  }
+
+h1{
+    color: white;
+    font-size: 50px;
+    font-style: 'Montserrat Black';
+}
