@@ -15,7 +15,7 @@ a{
 }
 
 .h1{
-    background-image: url('images/Super-Smash-Bros-Ultimate-Legend-of-Zelda-Stages.webp');
+    background-image: url('images/Super-Smash-Bros-Ultimate-Legend-of-Zelda-Stages copie.webp');
     text-align: center;
     padding-top: 300px;
     font-size: 50px;
@@ -26,4 +26,10 @@ a{
     padding: 50px;
     margin: 0px;
     padding-left: 450px;
+}
+.gras{
+    font-weight: bold;
+}
+.paragraphe{
+    font-size: 60px;
 }
