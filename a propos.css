@@ -25,3 +25,19 @@ h1{
     padding: 50px;
     margin: 0px;
 }
+
+.footer {
+    padding-left: 450px;
+}
+
+
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 120px;
+    left: 0px;
+  }
