@@ -6,6 +6,7 @@ body{
     background-size: cover;
     padding: 40px;
     margin: 0px;
+
 }
 .container{
     display: flex;
@@ -35,4 +36,7 @@ a{
 }
 .paragraphe{
     font-size: 60px;
+}
+a{
+    font-size: 30px;
 }
