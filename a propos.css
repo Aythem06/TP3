@@ -1,8 +1,12 @@
 body{
     background: #212121;
+<<<<<<< HEAD
+    font-family: 'Montserrat', sans-serif;
+=======
     color: white;
     font-family:;
    
+>>>>>>> ab42e074919d14b6ebad11578991baff628d5f84
 }
 
 .banner{
@@ -29,6 +33,35 @@ h1{
     margin: 0px;
     padding-left: 450px;
 }
+<<<<<<< HEAD
+
+
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 120px;
+    left: 0px;
+  }
+
+
+  a{
+    color:white;
+    font-size: 30px;
+  }
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+=======
 .paragraphe{
   font-weight: 10px;
 padding-left: 100px;
@@ -41,4 +74,5 @@ padding-left: 100px;
 a{
     color: white;
     font-size: 30px;
+>>>>>>> ab42e074919d14b6ebad11578991baff628d5f84
 }
